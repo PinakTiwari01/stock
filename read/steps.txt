@@ -1,0 +1,7 @@
+step 1 :- use convertfile.py for convert file 
+
+step 2 :- use barchart.py for generating chart of stock price and rsi 
+
+step 3 :- use prediction.py  This script combines machine learning and technical analysis to make and explain a daily stock movement prediction.
+
+step 4 :-

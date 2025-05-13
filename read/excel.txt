@@ -1,0 +1,13 @@
+If you're working in Excel and need to remove empty cells, here’s a quick way to do it:
+- Select the column where you want to delete empty cells.
+- Press Ctrl + G to open the "Go To" dialog box.
+- Click on Special, then select Blanks and hit OK—this highlights all empty cells.
+- Right-click any of the selected cells and choose Delete.
+- Select Shift cells up and click OK.
+This method ensures that your data stay
+
+--------------------------------------------------------------------
+
+Date,Price,Open,High,Low,Vol.,Change(%)
+================================================================
+equitypandit for data
