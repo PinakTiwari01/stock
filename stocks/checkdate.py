@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-df = pd.read_csv("download.csv")
+df = pd.read_csv("hdfc.csv")
 
 # Clean and print column names
 df.columns = [col.strip() for col in df.columns]
