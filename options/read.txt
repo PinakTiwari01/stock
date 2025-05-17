@@ -1,0 +1,11 @@
+Here’s a full Python script that:
+
+Loads your stock CSV file.
+
+Plots historical prices.
+
+Predicts future prices using a Linear Regression model (for simplicity and interpretability).
+
+Visualizes the prediction.
+
+Make sure your CSV has columns: Date, Open, High, Low, Close.
