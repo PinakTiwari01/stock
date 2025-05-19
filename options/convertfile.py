@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file (change path/filename as needed)
-df = pd.read_csv("options\SENSEX_01012010_16052025.csv")
+df = pd.read_csv("options/NIFTYBANK.csv")
 
 # Step 1: Rename columns (strip whitespace)
 df.columns = [col.strip() for col in df.columns]

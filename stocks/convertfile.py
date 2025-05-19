@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file (change this name if needed)
-df = pd.read_csv("hdfc.csv")
+df = pd.read_csv("stocks/HDBK.csv")
 
 # Step 1: Rename columns if needed (standardize)
 df.columns = [col.strip() for col in df.columns]
